@@ -1,4 +1,4 @@
-# mqtt-sn-arduino
+# mqttsn12-arduino-client
 C++ implementation for Arduino devices of the MQTT-SN protocol 1.2 (https://mqtt.org/mqtt-specification/ or https://groups.oasis-open.org/higherlogic/ws/public/document?document_id=66091).
 
 The library was tested with EMQX (https://www.emqx.com/en) and Hive MQ Edge (https://www.hivemq.com/products/hivemq-edge/).
